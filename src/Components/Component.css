@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+#NavBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: yellow;
+    background-color: rgb(60, 59, 70);
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.form-row {
+    padding: 40px;
+}
+
+#inputBar {
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#price {
+    color: rgb(102, 139, 240);
+}
+
+#button {
+    width: 100px;
+    padding: 4.5px;
+    border-radius: 5%;
+
+    
+}
